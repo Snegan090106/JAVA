@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class Main Numin2lines {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
@@ -9,3 +9,4 @@ class Main {
     sc.close();
     }
 }
+
