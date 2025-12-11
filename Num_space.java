@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class Main Nums_pace {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
@@ -8,3 +8,4 @@ class Main {
     sc.close();
     }
 }
+
