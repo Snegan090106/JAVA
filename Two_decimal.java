@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class Two_decimal{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float f = sc.nextFloat();
@@ -7,3 +7,4 @@ class Main {
     sc.close();
     }
 }
+
