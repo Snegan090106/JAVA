@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+public class Words_doublequotes {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String w1 = sc.next();
@@ -8,3 +8,4 @@ class Main {
     sc.close();
     }
 }
+
