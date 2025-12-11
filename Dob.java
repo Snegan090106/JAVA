@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class Dob {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int d = sc.nextInt();
@@ -9,3 +9,4 @@ class Main {
     sc.close();
     }
 }
+
