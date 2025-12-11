@@ -4,9 +4,10 @@ class Main Num_space {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        System.out.println(a + "\t" + b);
+        System.out.println(a + " " + b);
     sc.close();
     }
 }
+
 
 
